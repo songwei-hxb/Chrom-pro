@@ -11,7 +11,7 @@
 # Overview
 Chromosome-scale genomes is fundamental to current genomic and post-genomic research, however, the assembly process remains complicated and challenging due to absence of a standardized automatic workflow. In this work, we have developed a multifunctional toolkit called ```Chrom-pro``` for de-novo chromosome-level genome assembly. This toolkit integrates commonly-used algorithms into a user-friendly, automatic workflow and is capable of assembling high-quality chromosome-level genomes using third-generation, second-generation, and Hi-C sequencing reads.  Besides, Chrom-pro was also equipped with practical functionality including genome quality assessment, comparative genomic analysis, and structural variation detection. ```Chrom_pro``` can be installed on Linux from Docker Hub.
 
-![](.\Pipeline.jpg)
+![](Pipeline.jpg)
 
 
 
